@@ -1,0 +1,35 @@
+
+.centered {
+  position: fixed;
+  top: 50%;
+}
+/*
+h1 {
+  width:200%;
+}
+*/
+button {
+  margin-top: 25px;
+  margin-left: -150px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(29, 161,242);
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 250%;
+  border: 30px;
+}
+
+input {
+  margin-bottom: 14px;
+  margin-top: 14px;
+  margin-left: -150px;
+  width: 250%;
+  height: 40px;
+  background-color: #f4f8fa ;
+  border-top: 0px;
+  border-left: 0px;
+  border-right:0px;
+  border-bottom: 2px solid rgb(101,119,134);
+}
